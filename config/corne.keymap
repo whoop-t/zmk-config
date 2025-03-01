@@ -35,7 +35,7 @@
   &none &kp EXCL &kp AT &kp LBKT &kp RBKT &kp ASTRK   &kp PPLS &kp EQUAL &kp LPAR &kp RPAR &kp HASH &none
   &kp BSPC &kp DLLR &kp GRAVE &kp LCBR &kp RCBR &none   &none &kp MINUS &kp UNDER &kp AMPS &kp BSLH &kp DEL
   &none &kp CARET &kp PERC &kp LBKT &kp RBKT &none   &none &kp DQT &kp SQT &kp GRAVE &kp BSLH &none
-      &none &none &kp G_ENTER   &kp SPACE &none &none
+      &none &none &kp ENTER   &kp SPACE &none &none
                         >;
                 };
 
