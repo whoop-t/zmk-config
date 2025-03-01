@@ -32,10 +32,10 @@
 // | SHFT |     |     |     |     |     |   |     |     |     |     |     |      |
 //                    | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
-   &kp TAB    &kp N1       &kp N2       &kp N3       &kp N4       &kp N5         &kp N6   &kp N7   &kp N8 &kp N9    &kp N0 &kp BSPC
-   &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4   &kp LEFT &kp DOWN &kp UP &kp RIGHT &trans &trans
-   &kp LSHFT  &trans       &trans       &trans       &trans       &trans         &trans   &trans   &trans &trans    &trans &trans
-                                    &kp LGUI     &trans       &kp SPACE      &kp RET  &trans   &kp RALT
+  &none &kp EXCL &kp AT &kp LBKT &kp RBKT &kp ASTRK   &kp PPLS &kp EQUAL &kp LPAR &kp RPAR &kp HASH &none
+  &kp BSPC &kp DLLR &kp GRAVE &kp LCBR &kp RCBR &none   &none &kp MINUS &kp UNDER &kp AMPS &kp BSLH &kp DEL
+  &none &kp CARET &kp PERC &kp LBKT &kp RBKT &none   &none &kp DQT &kp SQT &kp GRAVE &kp BSLH &none
+      &none &none &kp G_ENTER   &kp SPACE &none &none
                         >;
                 };
 
