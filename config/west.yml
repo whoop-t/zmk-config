@@ -11,6 +11,6 @@ manifest:
       import: app/west.yml
     - name: nice-adventure-time
       remote: whoop-t
-      revision: battery_finn
+      revision: main
   self:
     path: config
