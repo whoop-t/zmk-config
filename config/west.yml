@@ -12,5 +12,8 @@ manifest:
     - name: nice-adventure-time
       remote: whoop-t
       revision: main
+    - name: nice-futurama-sus
+      remote: whoop-t
+      revision: main
   self:
     path: config
