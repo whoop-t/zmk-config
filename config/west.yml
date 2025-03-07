@@ -15,5 +15,8 @@ manifest:
     - name: nice-futurama-sus
       remote: whoop-t
       revision: main
+    - name: nice-shield-base
+      remote: whoop-t
+      revision: main
   self:
     path: config
