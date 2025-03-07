@@ -38,8 +38,8 @@
                 };
                 arrow_misc {
                         bindings = <
-   &kp LALT &none &none &none &none &none   &kp C_PREV &kp C_VOL_DN &kp C_VOL_UP &kp C_NEXT &none &none 
-   &bt BT_CLR &bt BT_SEL 2 &bt BT_SEL 1 &bt BT_SEL 0 &none &none   &kp LEFT &kp DOWN &kp UP &kp RIGHT &none &none
+   &kp LALT &none &none &none &none &none   &kp C_PREV &kp C_VOL_DN &kp C_VOL_UP &kp C_NEXT &none &bt BT_CLR
+   &none &bt BT_SEL 2 &bt BT_SEL 1 &bt BT_SEL 0 &none &none   &kp LEFT &kp DOWN &kp UP &kp RIGHT &none &none
    &none &none &none &none &none &none   &kp C_RW &kp C_MUTE &none &kp C_FF &none &none
       &none &none &none   &none &kp C_PP &none 
                         >;
