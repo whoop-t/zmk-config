@@ -15,7 +15,7 @@ manifest:
     - name: nice-futurama-sus
       remote: whoop-t
       revision: main
-    - name: nice-fry-button-miss
+    - name: nice-shield-base
       remote: whoop-t
       revision: main
   self:
