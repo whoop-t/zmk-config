@@ -9,13 +9,7 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: nice-adventure-time
-      remote: whoop-t
-      revision: main
-    - name: nice-futurama-sus
-      remote: whoop-t
-      revision: main
-    - name: nice-fry-button-miss
+    - name: nice-one-punch-ok
       remote: whoop-t
       revision: main
   self:
