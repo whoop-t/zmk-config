@@ -12,5 +12,8 @@ manifest:
     - name: nice-one-punch-ok
       remote: whoop-t
       revision: main
+    - name: nice-luffy-wanted
+      remote: whoop-t
+      revision: main
   self:
     path: config
