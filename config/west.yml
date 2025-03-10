@@ -15,5 +15,8 @@ manifest:
     - name: nice-luffy-wanted
       remote: whoop-t
       revision: main
+    - name: nice-shield-base
+      remote: whoop-t
+      revision: main
   self:
     path: config
