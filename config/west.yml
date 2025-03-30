@@ -9,7 +9,10 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: nice-one-punch-ok
+    - name: nice-luffy-wanted
+      remote: whoop-t
+      revision: main
+    - name: nice-luffy-gear-five
       remote: whoop-t
       revision: main
   self:
