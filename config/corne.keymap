@@ -9,6 +9,10 @@
 #include <dt-bindings/zmk/bt.h>
 
 / {
+        /*
+        * Tap dance to clear bluetooth
+        * Hit the key this is assigned to 3 times for it to clear the current bluetooth profile
+        */
         behaviors {
             bt_clear_td: tap_dance_0 {
                 compatible = "zmk,behavior-tap-dance";
