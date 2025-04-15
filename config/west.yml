@@ -2,15 +2,20 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: whoop-t
-      url-base: https://github.com/whoop-t
+    # - name: whoop-t
+    #   url-base: https://github.com/whoop-t
+    - name: jestar342
+      url-base: https://github.com/jestar342
   projects:
     - name: zmk
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: nice-one-punch-ok
-      remote: whoop-t
+    # - name: nice-one-punch-ok
+    #   remote: whoop-t
+    #   revision: main
+    - name: nice-shield-spacemarine
+      remote: jestar342
       revision: main
   self:
     path: config
